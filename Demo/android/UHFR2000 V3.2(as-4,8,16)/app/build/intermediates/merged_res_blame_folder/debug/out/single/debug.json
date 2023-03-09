@@ -1,0 +1,318 @@
+[
+    {
+        "merged": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_up.png.flat",
+        "source": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\src\\main\\res\\drawable-hdpi\\up.png"
+    },
+    {
+        "merged": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\debug\\menu_connect232.xml.flat",
+        "source": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\src\\main\\res\\menu\\connect232.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_select_background.xml.flat",
+        "source": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\src\\main\\res\\drawable-hdpi\\btn_select_background.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\debug\\raw_tone1.wav.flat",
+        "source": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\src\\main\\res\\raw\\tone1.wav"
+    },
+    {
+        "merged": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\debug\\layout_item.xml.flat",
+        "source": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\src\\main\\res\\layout\\item.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_down.png.flat",
+        "source": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\src\\main\\res\\drawable-hdpi\\down.png"
+    },
+    {
+        "merged": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_radio_button_selector.xml.flat",
+        "source": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\src\\main\\res\\drawable-hdpi\\radio_button_selector.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_list_bg_selector.xml.flat",
+        "source": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\src\\main\\res\\drawable-hdpi\\list_bg_selector.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\debug\\menu_connect_tcp.xml.flat",
+        "source": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\src\\main\\res\\menu\\connect_tcp.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_table_item_press.xml.flat",
+        "source": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\src\\main\\res\\drawable-hdpi\\table_item_press.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_select_background_select_right_down.xml.flat",
+        "source": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\src\\main\\res\\drawable-hdpi\\btn_select_background_select_right_down.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_table_item_top_select.xml.flat",
+        "source": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\src\\main\\res\\drawable-hdpi\\table_item_top_select.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_check_button_selector.xml.flat",
+        "source": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\src\\main\\res\\drawable-hdpi\\check_button_selector.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bg_default_button_selector.xml.flat",
+        "source": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\src\\main\\res\\drawable-hdpi\\bg_default_button_selector.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_radio_button_not_checked.png.flat",
+        "source": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\src\\main\\res\\drawable-hdpi\\radio_button_not_checked.png"
+    },
+    {
+        "merged": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_a.png.flat",
+        "source": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\src\\main\\res\\drawable-hdpi\\a.png"
+    },
+    {
+        "merged": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_menu_icon.png.flat",
+        "source": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\src\\main\\res\\drawable-hdpi\\menu_icon.png"
+    },
+    {
+        "merged": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_select_background_select_right.xml.flat",
+        "source": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\src\\main\\res\\drawable-hdpi\\btn_select_background_select_right.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\debug\\menu_select.xml.flat",
+        "source": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\src\\main\\res\\menu\\select.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\debug\\layout_listitem.xml.flat",
+        "source": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\src\\main\\res\\layout\\listitem.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\debug\\raw_tone0.wav.flat",
+        "source": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\src\\main\\res\\raw\\tone0.wav"
+    },
+    {
+        "merged": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_ivt_param.xml.flat",
+        "source": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\src\\main\\res\\layout\\activity_ivt_param.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_more_set_button_background_selector.xml.flat",
+        "source": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\src\\main\\res\\drawable-hdpi\\more_set_button_background_selector.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_title_button_selector.xml.flat",
+        "source": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\src\\main\\res\\drawable-hdpi\\title_button_selector.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_button_background.xml.flat",
+        "source": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\src\\main\\res\\drawable-hdpi\\button_background.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\debug\\layout_list.xml.flat",
+        "source": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\src\\main\\res\\layout\\list.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_connect232.xml.flat",
+        "source": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\src\\main\\res\\layout\\activity_connect232.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\debug\\raw_tone3.wav.flat",
+        "source": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\src\\main\\res\\raw\\tone3.wav"
+    },
+    {
+        "merged": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_table_item_middle.xml.flat",
+        "source": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\src\\main\\res\\drawable-hdpi\\table_item_middle.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_button_press_background.xml.flat",
+        "source": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\src\\main\\res\\drawable-hdpi\\button_press_background.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_table_item_press_selector.xml.flat",
+        "source": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\src\\main\\res\\drawable-hdpi\\table_item_press_selector.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_popupwin_menu_bg.9.png.flat",
+        "source": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\src\\main\\res\\drawable-hdpi\\icon_popupwin_menu_bg.9.png"
+    },
+    {
+        "merged": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\debug\\menu_udm.xml.flat",
+        "source": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\src\\main\\res\\menu\\udm.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\debug\\menu_web.xml.flat",
+        "source": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\src\\main\\res\\menu\\web.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_select_background_select.xml.flat",
+        "source": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\src\\main\\res\\drawable-hdpi\\btn_select_background_select.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_select_background_select_left_down.xml.flat",
+        "source": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\src\\main\\res\\drawable-hdpi\\btn_select_background_select_left_down.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_table_item_bottom.xml.flat",
+        "source": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\src\\main\\res\\drawable-hdpi\\table_item_bottom.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\debug\\layout_scan_view.xml.flat",
+        "source": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\src\\main\\res\\layout\\scan_view.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_radio_button_checked.png.flat",
+        "source": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\src\\main\\res\\drawable-hdpi\\radio_button_checked.png"
+    },
+    {
+        "merged": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_editbox_background.xml.flat",
+        "source": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\src\\main\\res\\drawable-hdpi\\editbox_background.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_check_off.png.flat",
+        "source": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\src\\main\\res\\drawable-hdpi\\btn_check_off.png"
+    },
+    {
+        "merged": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_button_selector.xml.flat",
+        "source": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\src\\main\\res\\drawable-hdpi\\button_selector.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_color_button_background.xml.flat",
+        "source": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\src\\main\\res\\drawable-hdpi\\color_button_background.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_more_set_button.png.flat",
+        "source": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\src\\main\\res\\drawable-hdpi\\more_set_button.png"
+    },
+    {
+        "merged": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\debug\\raw_tone2.wav.flat",
+        "source": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\src\\main\\res\\raw\\tone2.wav"
+    },
+    {
+        "merged": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_table_item_top_selector.xml.flat",
+        "source": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\src\\main\\res\\drawable-hdpi\\table_item_top_selector.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\debug\\raw_success.wav.flat",
+        "source": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\src\\main\\res\\raw\\success.wav"
+    },
+    {
+        "merged": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\debug\\menu_ivt_param.xml.flat",
+        "source": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\src\\main\\res\\menu\\ivt_param.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_color_button_selector.xml.flat",
+        "source": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\src\\main\\res\\drawable-hdpi\\color_button_selector.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_connect_tcp.xml.flat",
+        "source": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\src\\main\\res\\layout\\activity_connect_tcp.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\debug\\layout_query.xml.flat",
+        "source": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\src\\main\\res\\layout\\query.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_table_item_bottom_select.xml.flat",
+        "source": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\src\\main\\res\\drawable-hdpi\\table_item_bottom_select.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_table_item_middle_selector.xml.flat",
+        "source": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\src\\main\\res\\drawable-hdpi\\table_item_middle_selector.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_mainsad.xml.flat",
+        "source": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\src\\main\\res\\menu\\activity_mainsad.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_more_set_button_click.png.flat",
+        "source": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\src\\main\\res\\drawable-hdpi\\more_set_button_click.png"
+    },
+    {
+        "merged": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_button_disenabled_background.xml.flat",
+        "source": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\src\\main\\res\\drawable-hdpi\\button_disenabled_background.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_list_item_selector.xml.flat",
+        "source": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\src\\main\\res\\drawable-hdpi\\list_item_selector.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_select.xml.flat",
+        "source": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\src\\main\\res\\layout\\activity_select.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_select_background_select_left.xml.flat",
+        "source": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\src\\main\\res\\drawable-hdpi\\btn_select_background_select_left.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\debug\\layout_rw_6c.xml.flat",
+        "source": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\src\\main\\res\\layout\\rw_6c.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\debug\\raw_warning.wav.flat",
+        "source": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\src\\main\\res\\raw\\warning.wav"
+    },
+    {
+        "merged": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_gradient_bg.xml.flat",
+        "source": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\src\\main\\res\\drawable-hdpi\\gradient_bg.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_more_set_button_disenabled.png.flat",
+        "source": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\src\\main\\res\\drawable-hdpi\\more_set_button_disenabled.png"
+    },
+    {
+        "merged": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_table_item_middle_select.xml.flat",
+        "source": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\src\\main\\res\\drawable-hdpi\\table_item_middle_select.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_check_on.png.flat",
+        "source": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\src\\main\\res\\drawable-hdpi\\btn_check_on.png"
+    },
+    {
+        "merged": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_left.png.flat",
+        "source": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\src\\main\\res\\drawable-hdpi\\left.png"
+    },
+    {
+        "merged": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_udm.xml.flat",
+        "source": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\src\\main\\res\\layout\\activity_udm.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_table_item_top.xml.flat",
+        "source": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\src\\main\\res\\drawable-hdpi\\table_item_top.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_back.png.flat",
+        "source": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\src\\main\\res\\drawable-hdpi\\back.png"
+    },
+    {
+        "merged": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_right.png.flat",
+        "source": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\src\\main\\res\\drawable-hdpi\\right.png"
+    },
+    {
+        "merged": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_readonly_editbox_background.xml.flat",
+        "source": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\src\\main\\res\\drawable-hdpi\\readonly_editbox_background.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_table_item_bottom_selector.xml.flat",
+        "source": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\src\\main\\res\\drawable-hdpi\\table_item_bottom_selector.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_table_item_press_select.xml.flat",
+        "source": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\src\\main\\res\\drawable-hdpi\\table_item_press_select.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "E:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    }
+]

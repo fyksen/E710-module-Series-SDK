@@ -1,0 +1,552 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+   
+    <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content">
+
+           <TextView
+                    android:layout_width="0dip"
+                    android:layout_height="wrap_content"
+                    android:gravity="right"
+                    android:layout_gravity="center"
+                    android:layout_weight="1"
+                    android:text="@string/info_result" />
+
+                <TextView
+                    android:id="@+id/param_result"
+                    android:layout_weight="2"
+                    android:layout_width="0dip"
+                    android:layout_gravity="center"
+                    android:textSize="20dp"
+                    android:textColor="#cc0000"
+                    android:gravity="center"
+                    android:layout_height="@dimen/rm_6c_et_height"/>
+        </LinearLayout>
+    <ScrollView 
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:scrollbars="vertical" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dip"
+        android:orientation="vertical" >
+		<LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" >
+          
+		 
+         <!--频点设置 -->
+         <TextView
+            android:id="@+id/sd1"
+            android:layout_width="fill_parent"
+            android:background="@color/grayslate"
+            android:text="射频频谱"
+            android:gravity="center"
+            android:textSize="20dp"
+            android:layout_height="35dp"/>
+        
+         <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content">
+
+           <TextView
+                    android:layout_width="0dip"
+                    android:layout_height="wrap_content"
+                    android:gravity="right"
+                    android:layout_gravity="center"
+                    android:layout_weight="1"
+                    android:text="@string/version" />
+
+                <TextView
+                    android:id="@+id/version"
+                    android:layout_weight="2"
+                    android:layout_width="0dip"
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    android:layout_height="@dimen/rm_6c_et_height"/>
+        </LinearLayout>
+        
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+               android:layout_width="0dip"
+               android:layout_height="wrap_content"
+               android:gravity="right"
+               android:layout_gravity="center"
+               android:layout_weight="1"
+               android:text="@string/band" />
+
+            <Spinner
+                android:id="@+id/band_spinner"
+                android:layout_width="0dip"
+                android:layout_height="@dimen/rm_6c_et_height"
+                android:layout_weight="2"
+                android:gravity="left"  />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+               android:layout_width="0dip"
+               android:layout_height="wrap_content"
+               android:layout_gravity="center"
+               android:gravity="right"
+               android:layout_weight="1"
+               android:text="@string/dmin" />
+
+            <Spinner
+                android:id="@+id/min_spinner"
+                android:layout_width="0dip"
+                android:layout_height="@dimen/rm_6c_et_height"
+                android:layout_weight="2"
+                android:gravity="left"  />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+               android:layout_width="0dip"
+               android:layout_height="wrap_content"
+               android:layout_gravity="center"
+               android:gravity="right"
+               android:layout_weight="1"
+               android:text="@string/dmax" />
+
+            <Spinner
+                android:id="@+id/max_spinner"
+                android:layout_width="0dip"
+                android:layout_height="@dimen/rm_6c_et_height"
+                android:layout_weight="2"
+                android:gravity="left"  />
+        </LinearLayout>
+
+                
+       
+        
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content">
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" >
+
+            <Button
+                android:id="@+id/pro_read"
+                android:layout_width="0dip"
+                android:layout_height="40dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_weight="1"
+                android:background="@drawable/color_button_selector"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:text="@string/getstr" />
+
+            <Button
+                android:id="@+id/pro_setting"
+                android:layout_width="0dip"
+                android:layout_height="40dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_weight="1"
+                android:background="@drawable/color_button_selector"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:text="@string/setstr" />
+        </LinearLayout>
+        
+        
+         <!--功率设置 -->
+        <TextView
+            android:id="@+id/sd1"
+            android:layout_width="fill_parent"
+            android:layout_height="5dp"/>
+        
+        <TextView
+            android:id="@+id/sd1"
+            android:layout_width="fill_parent"
+            android:background="@color/grayslate"
+            android:text="射频输出功率"
+            android:gravity="center"
+            android:textSize="20dp"
+            android:layout_height="35dp"/>
+        
+          <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+               android:layout_width="0dip"
+               android:layout_height="wrap_content"
+               android:layout_gravity="center"
+               android:gravity="right"
+               android:layout_weight="1"
+               android:text="@string/power" />
+
+            <Spinner
+                android:id="@+id/power_spinner"
+                android:layout_width="0dip"
+                android:layout_height="@dimen/rm_6c_et_height"
+                android:layout_weight="2"
+                android:gravity="left"  />
+        </LinearLayout>
+        
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" >
+
+            <Button
+                android:id="@+id/btgetpwr"
+                android:layout_width="0dip"
+                android:layout_height="40dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_weight="1"
+                android:background="@drawable/color_button_selector"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:text="@string/getstr" />
+
+            <Button
+                android:id="@+id/btsetpwr"
+                android:layout_width="0dip"
+                android:layout_height="40dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_weight="1"
+                android:background="@drawable/color_button_selector"
+               android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:text="@string/setstr" />
+        </LinearLayout>
+        
+        
+        <!--天线配置 -->
+         <TextView
+            android:id="@+id/sd1"
+            android:layout_width="fill_parent"
+            android:layout_height="5dp"/>
+        
+        <TextView
+            android:id="@+id/sd1"
+            android:layout_width="fill_parent"
+            android:background="@color/grayslate"
+            android:text="天线配置"
+            android:gravity="center"
+            android:textSize="20dp"
+            android:layout_height="35dp"/>
+      
+        <LinearLayout
+            android:id="@+id/antGroup1"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content">
+
+             <CheckBox
+                    android:id="@+id/checkAnt1"
+                    android:layout_width="0dip"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="@string/ant1" />
+
+                <CheckBox
+                    android:id="@+id/checkAnt2"
+                    android:layout_width="0dip"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="@string/ant2" />
+
+                 <CheckBox
+                    android:id="@+id/checkAnt3"
+                    android:layout_width="0dip"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="@string/ant3" />
+
+                 <CheckBox
+                    android:id="@+id/checkAnt4"
+                    android:layout_width="0dip"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="@string/ant4" />
+
+        </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/antGroup2"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content">
+
+                <CheckBox
+                    android:id="@+id/checkAnt5"
+                    android:layout_width="0dip"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="@string/ant5" />
+
+                <CheckBox
+                    android:id="@+id/checkAnt6"
+                    android:layout_width="0dip"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="@string/ant6" />
+
+                <CheckBox
+                    android:id="@+id/checkAnt7"
+                    android:layout_width="0dip"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="@string/ant7" />
+
+                <CheckBox
+                    android:id="@+id/checkAnt8"
+                    android:layout_width="0dip"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="@string/ant8" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/antGroup3"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content">
+
+                <CheckBox
+                    android:id="@+id/checkAnt9"
+                    android:layout_width="0dip"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="@string/ant9" />
+
+                <CheckBox
+                    android:id="@+id/checkAnt10"
+                    android:layout_width="0dip"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="@string/ant10" />
+
+                <CheckBox
+                    android:id="@+id/checkAnt11"
+                    android:layout_width="0dip"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="@string/ant11" />
+
+                <CheckBox
+                    android:id="@+id/checkAnt12"
+                    android:layout_width="0dip"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="@string/ant12" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/antGroup4"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content">
+
+                <CheckBox
+                    android:id="@+id/checkAnt13"
+                    android:layout_width="0dip"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="@string/ant13" />
+
+                <CheckBox
+                    android:id="@+id/checkAnt14"
+                    android:layout_width="0dip"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="@string/ant14" />
+
+                <CheckBox
+                    android:id="@+id/checkAnt15"
+                    android:layout_width="0dip"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="@string/ant15" />
+
+                <CheckBox
+                    android:id="@+id/checkAnt16"
+                    android:layout_width="0dip"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="@string/ant16" />
+
+            </LinearLayout>
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" >
+
+            <Button
+                android:id="@+id/btgetant"
+                android:layout_width="0dip"
+                android:layout_height="40dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_weight="1"
+                android:background="@drawable/color_button_selector"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:text="@string/getstr" />
+
+            <Button
+                android:id="@+id/btsetant"
+                android:layout_width="0dip"
+                android:layout_height="40dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_weight="1"
+                android:background="@drawable/color_button_selector"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:text="@string/setstr" />
+        </LinearLayout>
+        
+         <!--蜂鸣器配置 -->
+         <TextView
+            android:id="@+id/sd1"
+            android:layout_width="fill_parent"
+            android:layout_height="5dp"/>
+        
+        <TextView
+            android:id="@+id/sd1"
+            android:layout_width="fill_parent"
+            android:background="@color/grayslate"
+            android:text="蜂鸣器配置"
+            android:gravity="center"
+            android:textSize="20dp"
+            android:layout_height="35dp"/>
+      
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+               android:layout_width="0dip"
+               android:layout_height="wrap_content"
+               android:layout_gravity="center"
+               android:gravity="right"
+               android:layout_weight="1"
+               android:text="@string/beepstr" />
+
+            <Spinner
+                android:id="@+id/beep_spinner"
+                android:layout_width="0dip"
+                android:layout_height="@dimen/rm_6c_et_height"
+                android:layout_weight="2"
+                android:gravity="left"  />
+        </LinearLayout>
+        
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" >
+
+            <Button
+                android:id="@+id/btgetbeep"
+                android:layout_width="0dip"
+                android:layout_height="40dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_weight="1"
+                android:background="@drawable/color_button_selector"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:text="@string/getstr" />
+
+            <Button
+                android:id="@+id/btsetbeep"
+                android:layout_width="0dip"
+                android:layout_height="40dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_weight="1"
+                android:background="@drawable/color_button_selector"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:text="@string/setstr" />
+        </LinearLayout>
+        
+        <!--写重复次数配置 -->
+         <TextView
+            android:id="@+id/sd1"
+            android:layout_width="fill_parent"
+            android:layout_height="5dp"/>
+        
+        <TextView
+            android:id="@+id/sd1"
+            android:layout_width="fill_parent"
+            android:background="@color/grayslate"
+            android:text="写重复次数配置"
+            android:gravity="center"
+            android:textSize="20dp"
+            android:layout_height="35dp"/>
+      
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+               android:layout_width="0dip"
+               android:layout_height="wrap_content"
+               android:layout_gravity="center"
+               android:gravity="right"
+               android:layout_weight="1"
+               android:text="次数:" />
+
+            <Spinner
+                android:id="@+id/repeat_spinner"
+                android:layout_width="0dip"
+                android:layout_height="@dimen/rm_6c_et_height"
+                android:layout_weight="2"
+                android:gravity="left"  />
+        </LinearLayout>
+        
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" >
+
+            <Button
+                android:id="@+id/btgetwtime"
+                android:layout_width="0dip"
+                android:layout_height="40dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_weight="1"
+                android:background="@drawable/color_button_selector"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:text="@string/getstr" />
+
+            <Button
+                android:id="@+id/btsetwtime"
+                android:layout_width="0dip"
+                android:layout_height="40dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_weight="1"
+                android:background="@drawable/color_button_selector"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:text="@string/setstr" />
+        </LinearLayout>
+        
+        <TextView
+            android:id="@+id/sd3"
+            android:layout_width="fill_parent"
+            android:layout_height="10dp"/>
+        
+    </LinearLayout>
+
+   </LinearLayout>
+</ScrollView>
+    
+    
+
+</LinearLayout>

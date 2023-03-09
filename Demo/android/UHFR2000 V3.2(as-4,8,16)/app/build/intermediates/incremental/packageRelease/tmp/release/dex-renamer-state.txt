@@ -1,0 +1,4 @@
+#Sat Oct 15 16:14:32 CST 2022
+base.0=E\:\\Android Demo\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.2(as-4,8,16)\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

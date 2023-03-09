@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    <LinearLayout
+        android:layout_width="match_parent"
+    	android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:orientation="vertical" >
+        <Button 
+            android:id="@+id/btnrs232"
+		    android:layout_width="match_parent"
+		    android:layout_height="wrap_content"
+		    android:layout_marginLeft="20.0sp"
+			android:layout_marginTop="20.0sp"
+			android:layout_marginRight="20.0sp"
+			android:layout_marginBottom="5.0sp"
+			android:paddingTop="10.0sp"
+			android:paddingBottom="10.0sp"
+		    android:text="RS232"
+		    android:background="@drawable/color_button_selector"
+			android:textColor="#ff222222"
+			android:textStyle="bold"
+			android:textSize="20dp" />
+	
+		<Button
+		    android:id="@+id/btntcp"
+		    android:layout_width="match_parent"
+		    android:layout_height="wrap_content"
+		    android:layout_marginLeft="20.0sp"
+			android:layout_marginTop="20.0sp"
+			android:layout_marginRight="20.0sp"
+			android:layout_marginBottom="5.0sp"
+			android:paddingTop="10.0sp"
+			android:paddingBottom="10.0sp"
+		    android:text="TCP/IP"
+		    android:background="@drawable/color_button_selector"
+			android:textColor="#ff222222"
+			android:textStyle="bold"
+			android:textSize="20dp" />
+    </LinearLayout>
+	
+
+</RelativeLayout>

@@ -1,0 +1,930 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\res"/><source path="E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\build\generated\res\rs\release"/><source path="E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\build\generated\res\resValues\release"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main" generated-set="main$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\res"><file name="a" path="E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\res\drawable-hdpi\a.png" qualifiers="hdpi-v4" type="drawable"/><file name="back" path="E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\res\drawable-hdpi\back.png" qualifiers="hdpi-v4" type="drawable"/><file name="bg_default_button_selector" path="E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\res\drawable-hdpi\bg_default_button_selector.xml" qualifiers="hdpi-v4" type="drawable"/><file name="btn_check_off" path="E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\res\drawable-hdpi\btn_check_off.png" qualifiers="hdpi-v4" type="drawable"/><file name="btn_check_on" path="E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\res\drawable-hdpi\btn_check_on.png" qualifiers="hdpi-v4" type="drawable"/><file name="btn_select_background" path="E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\res\drawable-hdpi\btn_select_background.xml" qualifiers="hdpi-v4" type="drawable"/><file name="btn_select_background_select" path="E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\res\drawable-hdpi\btn_select_background_select.xml" qualifiers="hdpi-v4" type="drawable"/><file name="btn_select_background_select_left" path="E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\res\drawable-hdpi\btn_select_background_select_left.xml" qualifiers="hdpi-v4" type="drawable"/><file name="btn_select_background_select_left_down" path="E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\res\drawable-hdpi\btn_select_background_select_left_down.xml" qualifiers="hdpi-v4" type="drawable"/><file name="btn_select_background_select_right" path="E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\res\drawable-hdpi\btn_select_background_select_right.xml" qualifiers="hdpi-v4" type="drawable"/><file name="btn_select_background_select_right_down" path="E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\res\drawable-hdpi\btn_select_background_select_right_down.xml" qualifiers="hdpi-v4" type="drawable"/><file name="button_background" path="E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\res\drawable-hdpi\button_background.xml" qualifiers="hdpi-v4" type="drawable"/><file name="button_disenabled_background" path="E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\res\drawable-hdpi\button_disenabled_background.xml" qualifiers="hdpi-v4" type="drawable"/><file name="button_press_background" path="E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\res\drawable-hdpi\button_press_background.xml" qualifiers="hdpi-v4" type="drawable"/><file name="button_selector" path="E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\res\drawable-hdpi\button_selector.xml" qualifiers="hdpi-v4" type="drawable"/><file name="check_button_selector" path="E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\res\drawable-hdpi\check_button_selector.xml" qualifiers="hdpi-v4" type="drawable"/><file name="color_button_background" path="E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\res\drawable-hdpi\color_button_background.xml" qualifiers="hdpi-v4" type="drawable"/><file name="color_button_selector" path="E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\res\drawable-hdpi\color_button_selector.xml" qualifiers="hdpi-v4" type="drawable"/><file name="down" path="E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\res\drawable-hdpi\down.png" qualifiers="hdpi-v4" type="drawable"/><file name="editbox_background" path="E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\res\drawable-hdpi\editbox_background.xml" qualifiers="hdpi-v4" type="drawable"/><file name="gradient_bg" path="E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\res\drawable-hdpi\gradient_bg.xml" qualifiers="hdpi-v4" type="drawable"/><file name="icon_popupwin_menu_bg" path="E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\res\drawable-hdpi\icon_popupwin_menu_bg.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher" path="E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\res\drawable-hdpi\ic_launcher.png" qualifiers="hdpi-v4" type="drawable"/><file name="left" path="E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\res\drawable-hdpi\left.png" qualifiers="hdpi-v4" type="drawable"/><file name="list_bg_selector" path="E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\res\drawable-hdpi\list_bg_selector.xml" qualifiers="hdpi-v4" type="drawable"/><file name="list_item_selector" path="E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\res\drawable-hdpi\list_item_selector.xml" qualifiers="hdpi-v4" type="drawable"/><file name="menu_icon" path="E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\res\drawable-hdpi\menu_icon.png" qualifiers="hdpi-v4" type="drawable"/><file name="more_set_button" path="E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\res\drawable-hdpi\more_set_button.png" qualifiers="hdpi-v4" type="drawable"/><file name="more_set_button_background_selector" path="E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\res\drawable-hdpi\more_set_button_background_selector.xml" qualifiers="hdpi-v4" type="drawable"/><file name="more_set_button_click" path="E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\res\drawable-hdpi\more_set_button_click.png" qualifiers="hdpi-v4" type="drawable"/><file name="more_set_button_disenabled" path="E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\res\drawable-hdpi\more_set_button_disenabled.png" qualifiers="hdpi-v4" type="drawable"/><file name="radio_button_checked" path="E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\res\drawable-hdpi\radio_button_checked.png" qualifiers="hdpi-v4" type="drawable"/><file name="radio_button_not_checked" path="E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\res\drawable-hdpi\radio_button_not_checked.png" qualifiers="hdpi-v4" type="drawable"/><file name="radio_button_selector" path="E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\res\drawable-hdpi\radio_button_selector.xml" qualifiers="hdpi-v4" type="drawable"/><file name="readonly_editbox_background" path="E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\res\drawable-hdpi\readonly_editbox_background.xml" qualifiers="hdpi-v4" type="drawable"/><file name="right" path="E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\res\drawable-hdpi\right.png" qualifiers="hdpi-v4" type="drawable"/><file name="table_item_bottom" path="E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\res\drawable-hdpi\table_item_bottom.xml" qualifiers="hdpi-v4" type="drawable"/><file name="table_item_bottom_select" path="E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\res\drawable-hdpi\table_item_bottom_select.xml" qualifiers="hdpi-v4" type="drawable"/><file name="table_item_bottom_selector" path="E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\res\drawable-hdpi\table_item_bottom_selector.xml" qualifiers="hdpi-v4" type="drawable"/><file name="table_item_middle" path="E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\res\drawable-hdpi\table_item_middle.xml" qualifiers="hdpi-v4" type="drawable"/><file name="table_item_middle_select" path="E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\res\drawable-hdpi\table_item_middle_select.xml" qualifiers="hdpi-v4" type="drawable"/><file name="table_item_middle_selector" path="E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\res\drawable-hdpi\table_item_middle_selector.xml" qualifiers="hdpi-v4" type="drawable"/><file name="table_item_press" path="E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\res\drawable-hdpi\table_item_press.xml" qualifiers="hdpi-v4" type="drawable"/><file name="table_item_press_select" path="E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\res\drawable-hdpi\table_item_press_select.xml" qualifiers="hdpi-v4" type="drawable"/><file name="table_item_press_selector" path="E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\res\drawable-hdpi\table_item_press_selector.xml" qualifiers="hdpi-v4" type="drawable"/><file name="table_item_top" path="E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\res\drawable-hdpi\table_item_top.xml" qualifiers="hdpi-v4" type="drawable"/><file name="table_item_top_select" path="E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\res\drawable-hdpi\table_item_top_select.xml" qualifiers="hdpi-v4" type="drawable"/><file name="table_item_top_selector" path="E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\res\drawable-hdpi\table_item_top_selector.xml" qualifiers="hdpi-v4" type="drawable"/><file name="title_button_selector" path="E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\res\drawable-hdpi\title_button_selector.xml" qualifiers="hdpi-v4" type="drawable"/><file name="up" path="E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\res\drawable-hdpi\up.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher" path="E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\res\drawable-mdpi\ic_launcher.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_launcher" path="E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\res\drawable-xhdpi\ic_launcher.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_launcher" path="E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\res\drawable-xxhdpi\ic_launcher.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="activity_connect232" path="E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\res\layout\activity_connect232.xml" qualifiers="" type="layout"/><file name="activity_connect_tcp" path="E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\res\layout\activity_connect_tcp.xml" qualifiers="" type="layout"/><file name="activity_ivt_param" path="E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\res\layout\activity_ivt_param.xml" qualifiers="" type="layout"/><file name="activity_main" path="E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\res\layout\activity_main.xml" qualifiers="" type="layout"/><file name="activity_select" path="E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\res\layout\activity_select.xml" qualifiers="" type="layout"/><file name="activity_udm" path="E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\res\layout\activity_udm.xml" qualifiers="" type="layout"/><file name="item" path="E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\res\layout\item.xml" qualifiers="" type="layout"/><file name="list" path="E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\res\layout\list.xml" qualifiers="" type="layout"/><file name="listitem" path="E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\res\layout\listitem.xml" qualifiers="" type="layout"/><file name="query" path="E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\res\layout\query.xml" qualifiers="" type="layout"/><file name="rw_6c" path="E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\res\layout\rw_6c.xml" qualifiers="" type="layout"/><file name="scan_view" path="E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\res\layout\scan_view.xml" qualifiers="" type="layout"/><file name="activity_mainsad" path="E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\res\menu\activity_mainsad.xml" qualifiers="" type="menu"/><file name="connect232" path="E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\res\menu\connect232.xml" qualifiers="" type="menu"/><file name="connect_tcp" path="E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\res\menu\connect_tcp.xml" qualifiers="" type="menu"/><file name="ivt_param" path="E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\res\menu\ivt_param.xml" qualifiers="" type="menu"/><file name="main" path="E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\res\menu\main.xml" qualifiers="" type="menu"/><file name="select" path="E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\res\menu\select.xml" qualifiers="" type="menu"/><file name="udm" path="E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\res\menu\udm.xml" qualifiers="" type="menu"/><file name="web" path="E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\res\menu\web.xml" qualifiers="" type="menu"/><file name="success" path="E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\res\raw\success.wav" qualifiers="" type="raw"/><file name="tone0" path="E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\res\raw\tone0.wav" qualifiers="" type="raw"/><file name="tone1" path="E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\res\raw\tone1.wav" qualifiers="" type="raw"/><file name="tone2" path="E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\res\raw\tone2.wav" qualifiers="" type="raw"/><file name="tone3" path="E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\res\raw\tone3.wav" qualifiers="" type="raw"/><file name="warning" path="E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\res\raw\warning.wav" qualifiers="" type="raw"/><file path="E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\res\values\colors.xml" qualifiers=""><color name="transparent_background_button">#11000000</color><color name="transparent_background">#ffffffff</color><color name="light_blue">#0bbbf7</color><color name="white">#FFFFFF</color><color name="white1">#eeeeee</color><color name="black">#000000</color><color name="black1">#313a4d</color><color name="gray">#808080</color><color name="gray1">#dbdbdb</color><color name="gray2">#ababab</color><color name="gray3">#ededed</color><color name="red">#FF0000</color><color name="red1">#db2627</color><color name="red2">#db2829</color><color name="red3">#22FF0000</color><color name="red4">#88FF0000</color><color name="red5">#aaFF0000</color><color name="gold">#FFD700</color><color name="yellow">#FFFF00</color><color name="green">#008000</color><color name="green1">#22008000</color><color name="green2">#88008000</color><color name="green3">#aa008000</color><color name="blue">#0000FF</color><color name="blue1">#2095ac</color><color name="blue2">#2398bc</color><color name="purple">#800080</color><color name="pink">#FFC0CB</color><color name="orange">#FFA500</color><color name="lemonyellow">#FFFACD</color><color name="graywhite">#F5F5F5</color><color name="grayslate">#708090</color><color name="lightblue">#0083FF</color><color name="lightblue2">#CCCCCC</color><color name="full_transparent">#00000000</color><color name="half_transparent">#aa000000</color><color name="listitem_black">#ff000000</color><color name="listitem_gray">#ff9da19e</color><color name="deep_gray">#ff3f3f3f</color><color name="text_gray">#ff999999</color><color name="sliding_menu_back">#ff2c2c2e</color><color name="sliding_menu_title_text_color">#ff999999</color><color name="sliding_menu_item_text_color">#ffb1b1b1</color><color name="sliding_menu_item_text_color_pressed">#ffffffff</color><color name="sliding_menu_item_pressed">#ff39393b</color><color name="sliding_menu_item">#00000000</color><color name="contents_text">#ff000000</color><color name="encode_view">#ffffffff</color><color name="help_button_view">#ffcccccc</color><color name="help_view">#ff404040</color><color name="possible_result_points">#c0ffff00</color><color name="result_image_border">#ffffffff</color><color name="result_minor_text">#ffc0c0c0</color><color name="result_points">#c000ff00</color><color name="result_text">#ffffffff</color><color name="result_view">#b0000000</color><color name="sbc_header_text">#ff808080</color><color name="sbc_header_view">#ffffffff</color><color name="sbc_list_item">#fffff0e0</color><color name="sbc_layout_view">#ffffffff</color><color name="sbc_page_number_text">#ff000000</color><color name="sbc_snippet_text">#ff4b4b4b</color><color name="share_text">#ff000000</color><color name="status_text">#ffffffff</color><color name="transparent">#00000000</color><color name="viewfinder_frame">#ff000000</color><color name="viewfinder_laser">#ffff0000</color><color name="viewfinder_mask">#60000000</color><string-array name="colors" translatable="false">
+        <item>#99cc00</item>
+        <item>#33b5e5</item>
+        <item>#0099cc</item>
+        <item>#547bca</item>
+        <item>#aa66cc</item>
+        <item>#9933cc</item>
+        <item>#669900</item>
+        <item>#aeb857</item>
+        <item>#cc0000</item>
+        <item>#df5948</item>
+        <item>#ff4444</item>
+        <item>#ae6b23</item>
+        <item>#ff8800</item>
+        <item>#e5ae4f</item>
+        <item>#ffbb33</item>
+        <item>#cccccc</item>
+        <item>#888888</item>
+    </string-array></file><file path="E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\res\values\dimens.xml" qualifiers=""><dimen name="activity_horizontal_margin">16dp</dimen><dimen name="activity_vertical_margin">16dp</dimen><dimen name="list_width">304dp</dimen><dimen name="list_height">250dp</dimen><dimen name="lable_width">245dp</dimen><dimen name="lable_num_width">45dp</dimen><dimen name="list_devide">1dp</dimen><dimen name="button_height">40dp</dimen><dimen name="button_width">80dp</dimen><dimen name="rm_6c_et_height">40dp</dimen></file><file path="E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\res\values\msg.xml" qualifiers=""><string name="error_open_warning">You must open the device before your oprate!</string><string name="error_wordptr_empty">WordPtr can not be empty!</string><string name="error_length_empty">Length can not be empty!</string><string name="error_pwd_empty">Password can not be empty!</string><string name="error_content_empty">Write data need content not be empty!</string><string name="error_length_content">Length and content does not match!</string><string name="error_str_lenght_odd">Length of every data can not be odd!</string></file><file path="E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\res\values\strings.xml" qualifiers=""><drawable name="clr_normal">#666666</drawable><drawable name="clr_pressed">#333333</drawable><drawable name="list_normal">#00000000</drawable><drawable name="list_pressed">#FF333333</drawable><string name="app_name">UHFDemo_V3.2</string><string name="menu_settings">Settings</string><string name="action_settings">Settings</string><string name="hello_world">Hello world!</string><string name="ipaddr">IP Addr:</string><string name="ipport">Port:</string><string name="version">Version:</string><string name="dmin">MinFre:</string><string name="band">Band:</string><string name="dmax">MaxFre:</string><string name="power">Power:</string><string name="scantime">Scantime:</string><string name="Connect">Connect</string><string name="SerialPort">SerialPort:</string><string name="BaudRate">BaudRate:</string><string name="idno">ID</string><string name="epcid">ID:</string><string name="times">Times</string><string name="rssi">RSSI</string><string name="antenna">Antenna</string><string name="ant1">ANT1</string><string name="ant2">ANT2</string><string name="ant3">ANT3</string><string name="ant4">ANT4</string><string name="ant5">ANT5</string><string name="ant6">ANT6</string><string name="ant7">ANT7</string><string name="ant8">ANT8</string><string name="ant9">ANT9</string><string name="ant10">ANT10</string><string name="ant11">ANT11</string><string name="ant12">ANT12</string><string name="ant13">ANT13</string><string name="ant14">ANT14</string><string name="ant15">ANT15</string><string name="ant16">ANT16</string><string name="number">Number:</string><string name="ttime">Time(ms):</string><string name="btscan">Scan</string><string name="btstop">Stop</string><string name="btstoping">Stoping</string><string name="basicparam">Basic Parameter</string><string name="scanparam">Inventory Parameter</string><string name="modeparam">Active Mode Parameter</string><string name="acmem">Query Type:</string><string name="activemode">Active Mode</string><string name="startAddr">Start Address:</string><string name="ReadLen">Read Length:</string><string name="qvalue">Q:</string><string name="session">Session:</string><string name="tidptr">TID Ptr:</string><string name="tidlen">TID Len:</string><string name="beepstr">Beep:</string><string name="filtemestr">Filter Time:</string><string name="getstr">Get</string><string name="setstr">Set</string><string name="txtepc">ID:</string><string name="bankid">Bank:</string><string name="memptr">Ptr:</string><string name="memlen">Len:</string><string name="pwdstr">Access Pwd:</string><string name="readstr">ReadData:</string><string name="writestr">WriteData:</string><string name="butnread">Read</string><string name="butnwrite">Write</string><string name="butnwriteepc">WriteEPC</string><string name="tab_scan">Scan</string><string name="tab_rw">R/W</string><string name="power_error">Power set failed</string><string name="beep_error">Beep set failed</string><string name="frequent_error">Frequency set failed</string><string name="antenna_error">Antenna set failed</string><string name="get_success">Read Success</string><string name="get_failed">Read Failed</string><string name="btn_getstr">Get</string><string name="btn_setstr">Set</string><string name="write_failed">Write Failed</string><string name="write_success">Write Success</string><string name="info_result">Result:</string><string-array name="men_select">
+        <item>Reserve</item>
+        <item>EPC</item>
+        <item>TID</item>
+        <item>User</item>
+    </string-array><string-array name="mode_select">
+        <item>Answer Mode</item>
+        <item>Active Mode</item>
+        <item>Trigger Mode(H)</item>
+        <item>Trigger Mode(L)</item>
+    </string-array><string-array name="type_select">
+        <item>Reserve</item>
+        <item>EPC</item>
+        <item>TID</item>
+        <item>User</item>
+        <item>Mutiple</item>
+        <item>Single</item>
+    </string-array><string-array name="men_filtime">
+        <item>0*1s</item>
+        <item>1*1s</item>
+        <item>2*1s</item>
+        <item>3*1s</item>
+        <item>4*1s</item>
+        <item>5*1s</item>
+        <item>6*1s</item>
+        <item>7*1s</item>
+        <item>8*1s</item>
+        <item>9*1s</item>
+        <item>10*1s</item>
+        <item>11*1s</item>
+        <item>12*1s</item>
+        <item>13*1s</item>
+        <item>14*1s</item>
+        <item>15*1s</item>
+        <item>16*1s</item>
+        <item>17*1s</item>
+        <item>18*1s</item>
+        <item>19*1s</item>
+        <item>20*1s</item>
+        <item>21*1s</item>
+        <item>22*1s</item>
+        <item>23*1s</item>
+        <item>24*1s</item>
+        <item>25*1s</item>
+        <item>26*1s</item>
+        <item>27*1s</item>
+        <item>28*1s</item>
+        <item>29*1s</item>
+        <item>30*1s</item>
+        <item>31*1s</item>
+        <item>32*1s</item>
+        <item>33*1s</item>
+        <item>34*1s</item>
+        <item>35*1s</item>
+        <item>36*1s</item>
+        <item>37*1s</item>
+        <item>38*1s</item>
+        <item>39*1s</item>
+        <item>40*1s</item>
+        <item>41*1s</item>
+        <item>42*1s</item>
+        <item>43*1s</item>
+        <item>44*1s</item>
+        <item>45*1s</item>
+        <item>46*1s</item>
+        <item>47*1s</item>
+        <item>48*1s</item>
+        <item>49*1s</item>
+        <item>50*1s</item>
+        <item>51*1s</item>
+        <item>52*1s</item>
+        <item>53*1s</item>
+        <item>54*1s</item>
+        <item>55*1s</item>
+        <item>56*1s</item>
+        <item>57*1s</item>
+        <item>58*1s</item>
+        <item>59*1s</item>
+        <item>60*1s</item>
+        <item>61*1s</item>
+        <item>62*1s</item>
+        <item>63*1s</item>
+        <item>64*1s</item>
+        <item>65*1s</item>
+        <item>66*1s</item>
+        <item>67*1s</item>
+        <item>68*1s</item>
+        <item>69*1s</item>
+        <item>70*1s</item>
+        <item>71*1s</item>
+        <item>72*1s</item>
+        <item>73*1s</item>
+        <item>74*1s</item>
+        <item>75*1s</item>
+        <item>76*1s</item>
+        <item>77*1s</item>
+        <item>78*1s</item>
+        <item>79*1s</item>
+        <item>80*1s</item>
+        <item>81*1s</item>
+        <item>82*1s</item>
+        <item>83*1s</item>
+        <item>84*1s</item>
+        <item>85*1s</item>
+        <item>86*1s</item>
+        <item>87*1s</item>
+        <item>88*1s</item>
+        <item>89*1s</item>
+        <item>90*1s</item>
+        <item>91*1s</item>
+        <item>92*1s</item>
+        <item>93*1s</item>
+        <item>94*1s</item>
+        <item>95*1s</item>
+        <item>96*1s</item>
+        <item>97*1s</item>
+        <item>98*1s</item>
+        <item>99*1s</item>
+        <item>100*1s</item>
+    </string-array><string-array name="men_s">
+        <item>S0</item>
+        <item>S1</item>
+        <item>S2</item>
+        <item>S3</item>
+        <item>Auto</item>
+    </string-array><string-array name="men_q">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+    </string-array><string-array name="men_tid">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+        <item>32</item>
+    </string-array><string-array name="act_addr">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+    </string-array><string-array name="act_len">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+        <item>32</item>
+    </string-array><string-array name="men_time">
+        <item>1*100ms</item>
+        <item>2*100ms</item>
+        <item>3*100ms</item>
+        <item>4*100ms</item>
+        <item>5*100ms</item>
+        <item>6*100ms</item>
+        <item>7*100ms</item>
+        <item>8*100ms</item>
+        <item>9*100ms</item>
+        <item>10*100ms</item>
+        <item>11*100ms</item>
+        <item>12*100ms</item>
+        <item>13*100ms</item>
+        <item>14*100ms</item>
+        <item>15*100ms</item>
+        <item>16*100ms</item>
+        <item>17*100ms</item>
+        <item>18*100ms</item>
+        <item>19*100ms</item>
+        <item>20*100ms</item>
+        <item>21*100ms</item>
+        <item>22*100ms</item>
+        <item>23*100ms</item>
+        <item>24*100ms</item>
+        <item>25*100ms</item>
+        <item>26*100ms</item>
+        <item>27*100ms</item>
+        <item>28*100ms</item>
+        <item>29*100ms</item>
+        <item>30*100ms</item>
+        <item>31*100ms</item>
+        <item>32*100ms</item>
+        <item>33*100ms</item>
+        <item>34*100ms</item>
+        <item>35*100ms</item>
+        <item>36*100ms</item>
+        <item>37*100ms</item>
+        <item>38*100ms</item>
+        <item>39*100ms</item>
+        <item>40*100ms</item>
+        <item>41*100ms</item>
+        <item>42*100ms</item>
+        <item>43*100ms</item>
+        <item>44*100ms</item>
+        <item>45*100ms</item>
+        <item>46*100ms</item>
+        <item>47*100ms</item>
+        <item>48*100ms</item>
+        <item>49*100ms</item>
+        <item>50*100ms</item>
+        <item>51*100ms</item>
+        <item>52*100ms</item>
+        <item>53*100ms</item>
+        <item>54*100ms</item>
+        <item>55*100ms</item>
+        <item>56*100ms</item>
+        <item>57*100ms</item>
+        <item>58*100ms</item>
+        <item>59*100ms</item>
+        <item>60*100ms</item>
+        <item>61*100ms</item>
+        <item>62*100ms</item>
+        <item>63*100ms</item>
+        <item>64*100ms</item>
+        <item>65*100ms</item>
+        <item>66*100ms</item>
+        <item>67*100ms</item>
+        <item>68*100ms</item>
+        <item>69*100ms</item>
+        <item>70*100ms</item>
+        <item>71*100ms</item>
+        <item>72*100ms</item>
+        <item>73*100ms</item>
+        <item>74*100ms</item>
+        <item>75*100ms</item>
+        <item>76*100ms</item>
+        <item>77*100ms</item>
+        <item>78*100ms</item>
+        <item>79*100ms</item>
+        <item>80*100ms</item>
+        <item>81*100ms</item>
+        <item>82*100ms</item>
+        <item>83*100ms</item>
+        <item>84*100ms</item>
+        <item>85*100ms</item>
+        <item>86*100ms</item>
+        <item>87*100ms</item>
+        <item>88*100ms</item>
+        <item>89*100ms</item>
+        <item>90*100ms</item>
+        <item>91*100ms</item>
+        <item>92*100ms</item>
+        <item>93*100ms</item>
+        <item>94*100ms</item>
+        <item>95*100ms</item>
+        <item>96*100ms</item>
+        <item>97*100ms</item>
+        <item>98*100ms</item>
+        <item>99*100ms</item>
+        <item>100*100ms</item>
+    </string-array><string name="open_warning">You must open the device before your oprate!</string><string name="wordptr_empty_warning">WordPtr can not be empty!</string><string name="length_empty_warning">Length can not be empty!</string><string name="pwd_empty_warning">Password can not be empty!</string><string name="content_empty_warning">Write data need content not be empty!</string><string name="length_content_warning">Length and content does not match!</string><string name="str_lenght_odd_warning">Length of every data can not be odd!</string><string name="data_ilegal">Data illegal!(empty or length is odd?)</string><string-array name="Fre_select">
+        <item>902.75 MHz</item>
+        <item>903.25 MHz</item>
+        <item>903.75 MHz</item>
+        <item>904.25 MHz</item>
+        <item>904.75 MHz</item>
+        <item>905.25 MHz</item>
+        <item>905.75 MHz</item>
+        <item>906.25 MHz</item>
+        <item>906.75 MHz</item>
+        <item>907.25 MHz</item>
+        <item>907.75 MHz</item>
+        <item>908.25 MHz</item>
+        <item>908.75 MHz</item>
+        <item>909.25 MHz</item>
+        <item>909.75 MHz</item>
+        <item>910.25 MHz</item>
+        <item>910.75 MHz</item>
+        <item>911.25 MHz</item>
+        <item>911.75 MHz</item>
+        <item>912.25 MHz</item>
+        <item>912.75 MHz</item>
+        <item>913.25 MHz</item>
+        <item>913.75 MHz</item>
+        <item>914.25 MHz</item>
+        <item>914.75 MHz</item>
+        <item>915.25 MHz</item>
+        <item>915.75 MHz</item>
+        <item>916.25 MHz</item>
+        <item>916.75 MHz</item>
+        <item>917.25 MHz</item>
+        <item>917.75 MHz</item>
+        <item>918.25 MHz</item>
+        <item>918.75 MHz</item>
+        <item>919.25 MHz</item>
+        <item>919.75 MHz</item>
+        <item>920.25 MHz</item>
+        <item>920.75 MHz</item>
+        <item>921.25 MHz</item>
+        <item>921.75 MHz</item>
+        <item>922.25 MHz</item>
+        <item>922.75 MHz</item>
+        <item>923.25 MHz</item>
+        <item>923.75 MHz</item>
+        <item>924.25 MHz</item>
+        <item>924.75 MHz</item>
+        <item>925.25 MHz</item>
+        <item>925.75 MHz</item>
+        <item>926.25 MHz</item>
+        <item>926.75 MHz</item>
+        <item>927.25 MHz</item>
+    </string-array><string-array name="Power_select">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+        <item>32</item>
+        <item>33</item>
+    </string-array><string-array name="beep_select">
+        <item>Off</item>
+        <item>On</item>
+    </string-array><string-array name="repeat_select">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+    </string-array><string name="title_activity_connect232">Connect232</string><string name="set_success">Set Success</string><string name="set_failed">Set Failed</string><string name="openport_success">Connect Success</string><string name="openport_failed">Connect Failed</string><string name="title_activity_select">SelectActivity</string><string name="title_activity_connect_tcp">ConnectTcp</string><string name="setrepeat_error">Repeat Set Error</string><string name="getrepeat_error">Repeat Get Error</string><string name="title_activity_ivt_param">Inventory Param</string><string name="title_activity_udm">UdmActivity</string><string name="btSearchDev">Search Devices</string><string name="title_activity_web">WebActivity</string><string name="btConfigDev">TCPIP Config</string><string name="uhf_title_lock">Lock</string><string-array name="arrayLockMem">
+        <item>Kill password</item>
+        <item>Access password</item>
+        <item>EPC</item>
+        <item>TID</item>
+        <item>USER</item>
+    </string-array><string name="info_psw_length_error">Password length error</string><string name="tvKillPwd">Kill Pwd：</string><string-array name="en_select">
+        <item>Disable</item>
+        <item>Enable</item>
+    </string-array><string name="info_mix">Mix</string><string name="uhf_title_openforever">Permanent Open</string><string name="info_searchfinish">Search finished</string><string name="tab_cmd">CMD</string><string name="uhf_title_lockforever">Permanent Lock</string><string name="btKill">Kill</string><string name="lock_failed">Lock Failed</string><string name="info_search">Searching...</string><string name="btlock">Lock</string><string name="txt_scan_type">Type:</string><string name="item_scan_condition">Mix/TID condition</string><string-array name="arrayLock">
+        <item>Unlock</item>
+        <item>Permanent Unlock</item>
+        <item>Lock</item>
+        <item>Permanent Lock</item>
+
+    </string-array><string name="noteStr">Lock or kill password can not be 00000000</string><string name="uhf_title_open">Open</string><string name="kill_failed">Kill Failed</string><string name="tab_ivtparam">Param</string><string name="tvLockMem">Lock Mem：</string><string name="item_scan_type">Inventory Type</string><string name="tvLockType">Lock Type：</string><string name="kill_success">Kill Success</string><string name="lock_success">Lock Success</string></file><file path="E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\res\values\styles.xml" qualifiers=""><style name="AppBaseTheme" parent="android:Theme.Light">
+        
+    </style><style name="AppTheme" parent="AppBaseTheme">
+        
+    </style></file><file path="E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\res\values-sw600dp\dimens.xml" qualifiers="sw600dp-v13"/><file path="E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\res\values-sw720dp-land\dimens.xml" qualifiers="sw720dp-land-v13"><dimen name="activity_horizontal_margin">128dp</dimen></file><file path="E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\res\values-v11\styles.xml" qualifiers="v11"><style name="AppBaseTheme" parent="android:Theme.Holo.Light">
+        
+    </style></file><file path="E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\res\values-v14\styles.xml" qualifiers="v14"><style name="AppBaseTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        
+    </style></file><file path="E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\res\values-zh\messages.xml" qualifiers="zh"><string name="network_not_connected">网络连接失败，请检查网络设置</string><string name="xml_parser_failed">数据解析异常</string><string name="io_exception_error">文件流异常</string><string name="http_status_code_error">网络异常，错误码：%d</string><string name="http_exception_error">网络异常，请求超时</string><string name="socket_exception_error">网络异常，读取数据超时</string><string name="app_run_code_error">应用程序运行时异常</string><string name="app_menu_surelogout">确定退出程序吗？</string><string name="sure">确定</string><string name="cancle">取消</string><string name="app_error">应用程序错误</string><string name="app_error_message">很抱歉，应用程序出现错误，即将退出。\n请提交错误报告，我们会尽快修复这个问题！</string><string name="submit_report">提交报告</string><string name="load_more">更多</string><string name="load_ing">加载中···</string><string name="load_full">已加载全部</string><string name="load_empty">暂无数据</string><string name="load_error">加载数据出错</string><string name="new_data_toast_message">有 %d 条更新</string><string name="new_data_toast_none">没有新更新</string><string name="select">选择</string><string name="share">分享</string><string name="sharing">分享中...</string><string name="publishing">发布中...</string><string name="choose_image">请选择图片文件！</string><string name="delete_image">确定删除该图片吗？</string><string name="delete_tweet">确定删除该动弹吗？</string><string name="delete_blog">确定删除该博客吗？</string><string name="republish_tweet">网络超时，是否重新发布动弹？</string><string name="clearwords">清除文字吗？</string><string name="msg_load_is_null">读取失败，可能已被删除</string><string name="msg_login_email_error">无效的邮箱地址</string><string name="msg_login_username_null">请输入用户名</string><string name="msg_login_pwd_null">请输入密码</string><string name="msg_login_success">登录成功</string><string name="msg_login_fail">登录失败</string><string name="msg_login_logout">退出成功</string><string name="msg_login_error">用户未登录 或 密码错误</string><string name="msg_load_userface_fail">用户头像加载失败</string><string name="msg_load_image_fail">图片加载失败</string><string name="msg_read_detail_fail">无法获取文章信息</string><string name="msg_noaccess_delete">您没有删除权限</string><string name="sinalogin_check_account">账号不能为空</string><string name="sinalogin_check_pass">密码不能为空</string><string name="sinalogin_check_server">服务器验证中...</string><string name="OAUTH_ERROR">服务器验证失败</string><string name="OAUTH_RequestToken_ACCESS">第三方应用验证成功</string><string name="OAUTH_RequestToken_ERROR">第三方应用验证失败</string><string name="OAUTH_AccessToken_ACCESS">用户授权登录成功</string><string name="OAUTH_AccessToken_ERROR">用户授权登录失败</string><string name="OAUTH_AccessToken_SXPIRED">授权已过期，请重新授权登录</string><string name="Weibo_Message_NULL">分享数据不能为空</string><string name="Weibo_Message_LONG">已超出140个字</string><string name="Weibo_Share_Success">微博分享成功</string><string name="Weibo_Share_Error">微博分享失败</string><string name="Weibo_Share_Repeat">已经分享过了</string><string name="font_size">正文字体</string></file><file path="E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\res\values-zh\msg.xml" qualifiers="zh"><string name="error_open_warning">设备未连接!</string><string name="error_wordptr_empty">起始地址不能为空!</string><string name="error_length_empty">长度不能为空!</string><string name="error_pwd_empty">密码不能为空!</string><string name="error_content_empty">写数据不能为空!</string><string name="error_length_content">长度和数据内容不匹配!</string><string name="error_str_lenght_odd">数据长度错误!</string></file><file path="E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\res\values-zh\rfid.xml" qualifiers="zh"><string-array name="arrayTagType">
+        <item>S50</item>
+        <item>S70</item>
+    </string-array><string-array name="arrayKeyType">
+        <item>A</item>
+        <item>B</item>
+    </string-array></file><file path="E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\res\values-zh\strings.xml" qualifiers="zh"><drawable name="clr_normal">#666666</drawable><drawable name="clr_pressed">#333333</drawable><drawable name="list_normal">#00000000</drawable><drawable name="list_pressed">#FF333333</drawable><string name="app_name">UHFDemo_V3.2</string><string name="menu_settings">Settings</string><string name="action_settings">Settings</string><string name="hello_world">Hello world!</string><string name="ipaddr">IP地址:</string><string name="ipport">端口号:</string><string name="version">版本号:</string><string name="dmin">最小频点:</string><string name="band">频段:</string><string name="dmax">最大频点:</string><string name="power">功率:</string><string name="scantime">询查最大时间:</string><string name="Connect">立即连接</string><string name="SerialPort">串口:</string><string name="BaudRate">波特率:</string><string name="idno">ID</string><string name="epcid">标签ID:</string><string name="times">次数</string><string name="rssi">RSSI</string><string name="antenna">天线号</string><string name="ant1">天线1</string><string name="ant2">天线2</string><string name="ant3">天线3</string><string name="ant4">天线4</string><string name="ant5">天线5</string><string name="ant6">天线6</string><string name="ant7">天线7</string><string name="ant8">天线8</string><string name="ant9">天线9</string><string name="ant10">天线10</string><string name="ant11">天线11</string><string name="ant12">天线12</string><string name="ant13">天线13</string><string name="ant14">天线14</string><string name="ant15">天线15</string><string name="ant16">天线16</string><string name="number">张数:</string><string name="ttime">运行时间(ms):</string><string name="btscan">扫描</string><string name="btstop">停止</string><string name="btstoping">停止中</string><string name="activemode">主动模式</string><string name="basicparam">基本参数</string><string name="scanparam">询查参数</string><string name="modeparam">主动模式参数</string><string name="wokemode">工作模式:</string><string name="acmem">查询方式:</string><string name="startAddr">起始地址:</string><string name="ReadLen">读取长度:</string><string name="qvalue">Q:</string><string name="session">Session:</string><string name="tidptr">TID地址:</string><string name="tidlen">TID长度:</string><string name="beepstr">蜂鸣器:</string><string name="filtemestr">过滤时间:</string><string name="getstr">读取</string><string name="setstr">设置</string><string name="btn_getstr">读取</string><string name="btn_setstr">设置</string><string name="txtepc">标签ID:</string><string name="bankid">存储区:</string><string name="memptr">地     址:</string><string name="memlen">长     度:</string><string name="pwdstr">密     码:</string><string name="readstr">读数据:</string><string name="writestr">写数据:</string><string name="butnread">读</string><string name="butnwrite">写</string><string name="butnwriteepc">写EPC号</string><string name="tab_scan">扫描</string><string name="tab_rw">读写</string><string name="power_error">功率设置失败</string><string name="beep_error">蜂鸣器设置失败</string><string name="frequent_error">频点设置失败</string><string name="antenna_error">天线设置失败</string><string name="set_success">设置成功</string><string name="set_failed">设置失败</string><string name="openport_success">串口连接成功</string><string name="openport_failed">串口连接失败</string><string name="get_success">读取成功</string><string name="get_failed">读取失败</string><string name="write_failed">写数据失败</string><string name="write_success">写数据成功</string><string name="info_result">执行结果:</string><string-array name="men_select">
+        <item>保留区</item>
+        <item>EPC区</item>
+        <item>TID区</item>
+        <item>用户区</item>
+    </string-array><string-array name="mode_select">
+        <item>应答模式</item>
+        <item>主动模式</item>
+        <item>触发模式(高电平)</item>
+        <item>触发模式(低电平)</item>
+    </string-array><string-array name="type_select">
+        <item>保留区</item>
+        <item>EPC区</item>
+        <item>TID区</item>
+        <item>用户区</item>
+        <item>多张查询</item>
+        <item>单张查询</item>
+    </string-array><string-array name="men_filtime">
+        <item>0*1s</item>
+        <item>1*1s</item>
+        <item>2*1s</item>
+        <item>3*1s</item>
+        <item>4*1s</item>
+        <item>5*1s</item>
+        <item>6*1s</item>
+        <item>7*1s</item>
+        <item>8*1s</item>
+        <item>9*1s</item>
+        <item>10*1s</item>
+        <item>11*1s</item>
+        <item>12*1s</item>
+        <item>13*1s</item>
+        <item>14*1s</item>
+        <item>15*1s</item>
+        <item>16*1s</item>
+        <item>17*1s</item>
+        <item>18*1s</item>
+        <item>19*1s</item>
+        <item>20*1s</item>
+        <item>21*1s</item>
+        <item>22*1s</item>
+        <item>23*1s</item>
+        <item>24*1s</item>
+        <item>25*1s</item>
+        <item>26*1s</item>
+        <item>27*1s</item>
+        <item>28*1s</item>
+        <item>29*1s</item>
+        <item>30*1s</item>
+        <item>31*1s</item>
+        <item>32*1s</item>
+        <item>33*1s</item>
+        <item>34*1s</item>
+        <item>35*1s</item>
+        <item>36*1s</item>
+        <item>37*1s</item>
+        <item>38*1s</item>
+        <item>39*1s</item>
+        <item>40*1s</item>
+        <item>41*1s</item>
+        <item>42*1s</item>
+        <item>43*1s</item>
+        <item>44*1s</item>
+        <item>45*1s</item>
+        <item>46*1s</item>
+        <item>47*1s</item>
+        <item>48*1s</item>
+        <item>49*1s</item>
+        <item>50*1s</item>
+        <item>51*1s</item>
+        <item>52*1s</item>
+        <item>53*1s</item>
+        <item>54*1s</item>
+        <item>55*1s</item>
+        <item>56*1s</item>
+        <item>57*1s</item>
+        <item>58*1s</item>
+        <item>59*1s</item>
+        <item>60*1s</item>
+        <item>61*1s</item>
+        <item>62*1s</item>
+        <item>63*1s</item>
+        <item>64*1s</item>
+        <item>65*1s</item>
+        <item>66*1s</item>
+        <item>67*1s</item>
+        <item>68*1s</item>
+        <item>69*1s</item>
+        <item>70*1s</item>
+        <item>71*1s</item>
+        <item>72*1s</item>
+        <item>73*1s</item>
+        <item>74*1s</item>
+        <item>75*1s</item>
+        <item>76*1s</item>
+        <item>77*1s</item>
+        <item>78*1s</item>
+        <item>79*1s</item>
+        <item>80*1s</item>
+        <item>81*1s</item>
+        <item>82*1s</item>
+        <item>83*1s</item>
+        <item>84*1s</item>
+        <item>85*1s</item>
+        <item>86*1s</item>
+        <item>87*1s</item>
+        <item>88*1s</item>
+        <item>89*1s</item>
+        <item>90*1s</item>
+        <item>91*1s</item>
+        <item>92*1s</item>
+        <item>93*1s</item>
+        <item>94*1s</item>
+        <item>95*1s</item>
+        <item>96*1s</item>
+        <item>97*1s</item>
+        <item>98*1s</item>
+        <item>99*1s</item>
+        <item>100*1s</item>
+    </string-array><string-array name="men_s">
+        <item>S0</item>
+        <item>S1</item>
+        <item>S2</item>
+        <item>S3</item>
+        <item>Auto</item>
+    </string-array><string-array name="men_q">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+    </string-array><string-array name="men_tid">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+        <item>32</item>
+    </string-array><string-array name="act_addr">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+    </string-array><string-array name="act_len">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+        <item>32</item>
+    </string-array><string-array name="men_time">
+        <item>1*100ms</item>
+        <item>2*100ms</item>
+        <item>3*100ms</item>
+        <item>4*100ms</item>
+        <item>5*100ms</item>
+        <item>6*100ms</item>
+        <item>7*100ms</item>
+        <item>8*100ms</item>
+        <item>9*100ms</item>
+        <item>10*100ms</item>
+        <item>11*100ms</item>
+        <item>12*100ms</item>
+        <item>13*100ms</item>
+        <item>14*100ms</item>
+        <item>15*100ms</item>
+        <item>16*100ms</item>
+        <item>17*100ms</item>
+        <item>18*100ms</item>
+        <item>19*100ms</item>
+        <item>20*100ms</item>
+        <item>21*100ms</item>
+        <item>22*100ms</item>
+        <item>23*100ms</item>
+        <item>24*100ms</item>
+        <item>25*100ms</item>
+        <item>26*100ms</item>
+        <item>27*100ms</item>
+        <item>28*100ms</item>
+        <item>29*100ms</item>
+        <item>30*100ms</item>
+        <item>31*100ms</item>
+        <item>32*100ms</item>
+        <item>33*100ms</item>
+        <item>34*100ms</item>
+        <item>35*100ms</item>
+        <item>36*100ms</item>
+        <item>37*100ms</item>
+        <item>38*100ms</item>
+        <item>39*100ms</item>
+        <item>40*100ms</item>
+        <item>41*100ms</item>
+        <item>42*100ms</item>
+        <item>43*100ms</item>
+        <item>44*100ms</item>
+        <item>45*100ms</item>
+        <item>46*100ms</item>
+        <item>47*100ms</item>
+        <item>48*100ms</item>
+        <item>49*100ms</item>
+        <item>50*100ms</item>
+        <item>51*100ms</item>
+        <item>52*100ms</item>
+        <item>53*100ms</item>
+        <item>54*100ms</item>
+        <item>55*100ms</item>
+        <item>56*100ms</item>
+        <item>57*100ms</item>
+        <item>58*100ms</item>
+        <item>59*100ms</item>
+        <item>60*100ms</item>
+        <item>61*100ms</item>
+        <item>62*100ms</item>
+        <item>63*100ms</item>
+        <item>64*100ms</item>
+        <item>65*100ms</item>
+        <item>66*100ms</item>
+        <item>67*100ms</item>
+        <item>68*100ms</item>
+        <item>69*100ms</item>
+        <item>70*100ms</item>
+        <item>71*100ms</item>
+        <item>72*100ms</item>
+        <item>73*100ms</item>
+        <item>74*100ms</item>
+        <item>75*100ms</item>
+        <item>76*100ms</item>
+        <item>77*100ms</item>
+        <item>78*100ms</item>
+        <item>79*100ms</item>
+        <item>80*100ms</item>
+        <item>81*100ms</item>
+        <item>82*100ms</item>
+        <item>83*100ms</item>
+        <item>84*100ms</item>
+        <item>85*100ms</item>
+        <item>86*100ms</item>
+        <item>87*100ms</item>
+        <item>88*100ms</item>
+        <item>89*100ms</item>
+        <item>90*100ms</item>
+        <item>91*100ms</item>
+        <item>92*100ms</item>
+        <item>93*100ms</item>
+        <item>94*100ms</item>
+        <item>95*100ms</item>
+        <item>96*100ms</item>
+        <item>97*100ms</item>
+        <item>98*100ms</item>
+        <item>99*100ms</item>
+        <item>100*100ms</item>
+    </string-array><string-array name="Fre_select">
+        <item>902.75 MHz</item>
+        <item>903.25 MHz</item>
+        <item>903.75 MHz</item>
+        <item>904.25 MHz</item>
+        <item>904.75 MHz</item>
+        <item>905.25 MHz</item>
+        <item>905.75 MHz</item>
+        <item>906.25 MHz</item>
+        <item>906.75 MHz</item>
+        <item>907.25 MHz</item>
+        <item>907.75 MHz</item>
+        <item>908.25 MHz</item>
+        <item>908.75 MHz</item>
+        <item>909.25 MHz</item>
+        <item>909.75 MHz</item>
+        <item>910.25 MHz</item>
+        <item>910.75 MHz</item>
+        <item>911.25 MHz</item>
+        <item>911.75 MHz</item>
+        <item>912.25 MHz</item>
+        <item>912.75 MHz</item>
+        <item>913.25 MHz</item>
+        <item>913.75 MHz</item>
+        <item>914.25 MHz</item>
+        <item>914.75 MHz</item>
+        <item>915.25 MHz</item>
+        <item>915.75 MHz</item>
+        <item>916.25 MHz</item>
+        <item>916.75 MHz</item>
+        <item>917.25 MHz</item>
+        <item>917.75 MHz</item>
+        <item>918.25 MHz</item>
+        <item>918.75 MHz</item>
+        <item>919.25 MHz</item>
+        <item>919.75 MHz</item>
+        <item>920.25 MHz</item>
+        <item>920.75 MHz</item>
+        <item>921.25 MHz</item>
+        <item>921.75 MHz</item>
+        <item>922.25 MHz</item>
+        <item>922.75 MHz</item>
+        <item>923.25 MHz</item>
+        <item>923.75 MHz</item>
+        <item>924.25 MHz</item>
+        <item>924.75 MHz</item>
+        <item>925.25 MHz</item>
+        <item>925.75 MHz</item>
+        <item>926.25 MHz</item>
+        <item>926.75 MHz</item>
+        <item>927.25 MHz</item>
+    </string-array><string-array name="Power_select">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+        <item>32</item>
+        <item>33</item>
+    </string-array><string-array name="beep_select">
+        <item>关</item>
+        <item>开</item>
+    </string-array><string name="title_activity_connect232">Connect232</string><string name="setrepeat_error">重复次数设置失败</string><string name="getrepeat_error">重复次数读取失败</string><string name="title_activity_ivt_param">Inventory Param</string><string name="btSearchDev">搜索设备</string><string name="btConfigDev">网络配置</string><string name="kill_success">销毁成功</string><string name="info_search">搜索中...</string><string name="btKill">销毁</string><string name="tvLockMem">锁定区域：</string><string-array name="arrayLock">
+        <item>解锁</item>
+        <item>永久解锁</item>
+        <item>锁定</item>
+        <item>永久锁定</item>
+    </string-array><string name="info_psw_length_error">密码长度错误</string><string name="tab_ivtparam">参数</string><string name="lock_failed">锁定失败</string><string name="uhf_title_openforever">永久开放</string><string name="uhf_title_open">开放</string><string name="btlock">锁定</string><string name="item_scan_type">查询方式</string><string name="noteStr">注：锁定或杀死标签密码不能为8个0</string><string name="info_mix">混合查询</string><string name="uhf_title_lockforever">永久锁定</string><string name="lock_success">锁定成功</string><string name="info_searchfinish">搜索结束,单击列表进入IE配置</string><string name="txt_scan_type">类型:</string><string name="tab_cmd">命令</string><string-array name="en_select">
+        <item>禁止</item>
+        <item>启用</item>
+    </string-array><string name="item_scan_condition">混合/TID查询条件</string><string name="uhf_title_lock">锁</string><string name="tvLockType">锁定方式：</string><string name="kill_failed">销毁失败</string><string name="tvKillPwd">销毁密码：</string></file></source><source path="E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\build\generated\res\rs\release"/><source path="E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\build\generated\res\resValues\release"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="release$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\release\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="release" generated-set="release$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\release\res"/></dataSet><mergedItems/></merger>

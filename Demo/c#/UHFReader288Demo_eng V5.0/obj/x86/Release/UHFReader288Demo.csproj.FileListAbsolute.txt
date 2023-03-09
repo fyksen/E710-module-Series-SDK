@@ -1,0 +1,11 @@
+G:\演示软件\最终版本\UHF资料\UHF\国产R2000\以UHFReader288命名的开发包\english\Demo\c#\UHFReader288Demo_eng V5.0\bin\x86\Release\UHFReader288Demo.exe
+G:\演示软件\最终版本\UHF资料\UHF\国产R2000\以UHFReader288命名的开发包\english\Demo\c#\UHFReader288Demo_eng V5.0\bin\x86\Release\UHFReader288Demo.pdb
+G:\演示软件\最终版本\UHF资料\UHF\国产R2000\以UHFReader288命名的开发包\english\Demo\c#\UHFReader288Demo_eng V5.0\obj\x86\Release\ResolveAssemblyReference.cache
+G:\演示软件\最终版本\UHF资料\UHF\国产R2000\以UHFReader288命名的开发包\english\Demo\c#\UHFReader288Demo_eng V5.0\obj\x86\Release\UHFReader288Demo.ConfigForm.resources
+G:\演示软件\最终版本\UHF资料\UHF\国产R2000\以UHFReader288命名的开发包\english\Demo\c#\UHFReader288Demo_eng V5.0\obj\x86\Release\UHFReader288Demo.Form1.resources
+G:\演示软件\最终版本\UHF资料\UHF\国产R2000\以UHFReader288命名的开发包\english\Demo\c#\UHFReader288Demo_eng V5.0\obj\x86\Release\UHFReader288Demo.LoginForm.resources
+G:\演示软件\最终版本\UHF资料\UHF\国产R2000\以UHFReader288命名的开发包\english\Demo\c#\UHFReader288Demo_eng V5.0\obj\x86\Release\UHFReader288Demo.ParamSetting.resources
+G:\演示软件\最终版本\UHF资料\UHF\国产R2000\以UHFReader288命名的开发包\english\Demo\c#\UHFReader288Demo_eng V5.0\obj\x86\Release\UHFReader288Demo.Properties.Resources.resources
+G:\演示软件\最终版本\UHF资料\UHF\国产R2000\以UHFReader288命名的开发包\english\Demo\c#\UHFReader288Demo_eng V5.0\obj\x86\Release\UHFReader288Demo.csproj.GenerateResource.Cache
+G:\演示软件\最终版本\UHF资料\UHF\国产R2000\以UHFReader288命名的开发包\english\Demo\c#\UHFReader288Demo_eng V5.0\obj\x86\Release\UHFReader288Demo.exe
+G:\演示软件\最终版本\UHF资料\UHF\国产R2000\以UHFReader288命名的开发包\english\Demo\c#\UHFReader288Demo_eng V5.0\obj\x86\Release\UHFReader288Demo.pdb

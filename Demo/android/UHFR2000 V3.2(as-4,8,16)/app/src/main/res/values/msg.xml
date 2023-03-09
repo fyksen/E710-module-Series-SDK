@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="error_open_warning">You must open the device before your oprate!</string>
+    <string name="error_wordptr_empty">WordPtr can not be empty!</string>
+    <string name="error_length_empty">Length can not be empty!</string>
+    <string name="error_pwd_empty">Password can not be empty!</string>
+    <string name="error_content_empty">Write data need content not be empty!</string>
+    <string name="error_length_content">Length and content does not match!</string>
+    <string name="error_str_lenght_odd">Length of every data can not be odd!</string>
+</resources>

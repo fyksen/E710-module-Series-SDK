@@ -1,0 +1,144 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.uhf288.scanlable"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+7-->E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\AndroidManifest.xml:7:5-9:41
+8        android:minSdkVersion="8"
+8-->E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\AndroidManifest.xml:8:9-34
+9        android:targetSdkVersion="28" />
+9-->E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\AndroidManifest.xml:9:9-38
+10
+11    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" >
+11-->E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\AndroidManifest.xml:11:5-12:23
+11-->E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\AndroidManifest.xml:11:22-78
+12    </uses-permission>
+13    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" >
+13-->E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\AndroidManifest.xml:13:5-14:23
+13-->E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\AndroidManifest.xml:13:22-77
+14    </uses-permission>
+15    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" >
+15-->E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\AndroidManifest.xml:15:5-16:23
+15-->E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\AndroidManifest.xml:15:22-81
+16    </uses-permission>
+17    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+17-->E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\AndroidManifest.xml:17:5-79
+17-->E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\AndroidManifest.xml:17:22-76
+18    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+18-->E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\AndroidManifest.xml:18:5-81
+18-->E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\AndroidManifest.xml:18:22-78
+19
+20    <!-- 允许应用程序改变网络状态 -->
+21    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
+21-->E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\AndroidManifest.xml:21:5-79
+21-->E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\AndroidManifest.xml:21:22-76
+22
+23    <!-- 允许应用程序改变WIFI连接状态 -->
+24    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+24-->E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\AndroidManifest.xml:24:5-76
+24-->E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\AndroidManifest.xml:24:22-73
+25
+26    <!-- 允许应用程序访问有关的网络信息 -->
+27    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+27-->E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\AndroidManifest.xml:27:5-79
+27-->E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\AndroidManifest.xml:27:22-76
+28
+29    <!-- 允许应用程序访问WIFI网卡的网络信息 -->
+30    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+30-->E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\AndroidManifest.xml:30:5-76
+30-->E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\AndroidManifest.xml:30:22-73
+31
+32    <!-- 允许应用程序完全使用网络 -->
+33    <uses-permission android:name="android.permission.INTERNET" />
+33-->E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\AndroidManifest.xml:33:5-67
+33-->E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\AndroidManifest.xml:33:22-64
+34
+35    <application
+35-->E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\AndroidManifest.xml:35:5-79:19
+36        android:allowBackup="true"
+36-->E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\AndroidManifest.xml:36:9-35
+37        android:debuggable="true"
+38        android:icon="@drawable/ic_launcher"
+38-->E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\AndroidManifest.xml:37:9-45
+39        android:label="@string/app_name"
+39-->E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\AndroidManifest.xml:38:9-41
+40        android:testOnly="true"
+41        android:theme="@style/AppTheme" >
+41-->E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\AndroidManifest.xml:39:9-40
+42        <activity
+42-->E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\AndroidManifest.xml:40:9-49:20
+43            android:name="com.uhf288.scanlable.SelectActivity"
+43-->E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\AndroidManifest.xml:41:13-63
+44            android:label="@string/app_name"
+44-->E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\AndroidManifest.xml:42:13-45
+45            android:windowSoftInputMode="adjustPan" >
+45-->E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\AndroidManifest.xml:43:13-52
+46            <intent-filter>
+46-->E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\AndroidManifest.xml:44:13-48:29
+47                <action android:name="android.intent.action.MAIN" />
+47-->E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\AndroidManifest.xml:45:17-69
+47-->E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\AndroidManifest.xml:45:25-66
+48
+49                <category android:name="android.intent.category.LAUNCHER" />
+49-->E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\AndroidManifest.xml:47:17-77
+49-->E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\AndroidManifest.xml:47:27-74
+50            </intent-filter>
+51        </activity>
+52        <activity android:name="com.uhf288.scanlable.MainActivity" >
+52-->E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\AndroidManifest.xml:50:9-51:20
+52-->E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\AndroidManifest.xml:50:19-67
+53        </activity>
+54        <activity android:name="com.uhf288.scanlable.ScanView" >
+54-->E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\AndroidManifest.xml:52:9-53:20
+54-->E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\AndroidManifest.xml:52:19-63
+55        </activity>
+56        <activity android:name="com.uhf288.scanlable.ScanMode" >
+56-->E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\AndroidManifest.xml:54:9-55:20
+56-->E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\AndroidManifest.xml:54:19-63
+57        </activity>
+58        <activity android:name="com.uhf288.scanlable.ScanModeGroup" >
+58-->E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\AndroidManifest.xml:56:9-57:20
+58-->E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\AndroidManifest.xml:56:19-68
+59        </activity>
+60        <activity
+60-->E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\AndroidManifest.xml:58:9-61:20
+61            android:name="com.uhf288.scanlable.ReadWriteActivity"
+61-->E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\AndroidManifest.xml:59:13-66
+62            android:windowSoftInputMode="stateHidden|stateUnchanged" >
+62-->E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\AndroidManifest.xml:60:13-69
+63        </activity>
+64        <activity
+64-->E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\AndroidManifest.xml:62:9-65:20
+65            android:name="com.uhf288.scanlable.Connect232"
+65-->E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\AndroidManifest.xml:63:13-59
+66            android:label="@string/title_activity_connect232" >
+66-->E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\AndroidManifest.xml:64:13-62
+67        </activity>
+68        <activity
+68-->E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\AndroidManifest.xml:66:9-70:20
+69            android:name="com.uhf288.scanlable.ConnectTcp"
+69-->E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\AndroidManifest.xml:67:13-59
+70            android:label="@string/title_activity_connect_tcp"
+70-->E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\AndroidManifest.xml:68:13-63
+71            android:windowSoftInputMode="stateHidden|stateUnchanged" >
+71-->E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\AndroidManifest.xml:69:13-69
+72        </activity>
+73        <activity
+73-->E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\AndroidManifest.xml:71:9-74:20
+74            android:name="com.uhf288.scanlable.IvtParamActivity"
+74-->E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\AndroidManifest.xml:72:13-65
+75            android:label="@string/title_activity_ivt_param" >
+75-->E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\AndroidManifest.xml:73:13-61
+76        </activity>
+77        <activity
+77-->E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\AndroidManifest.xml:75:9-78:20
+78            android:name="com.uhf288.scanlable.UdmActivity"
+78-->E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\AndroidManifest.xml:76:13-60
+79            android:label="@string/title_activity_udm" >
+79-->E:\Android Demo\CLient group\Client group-D\R2000\UHFR2000 V3.2(as-4,8,16)\app\src\main\AndroidManifest.xml:77:13-55
+80        </activity>
+81    </application>
+82
+83</manifest>

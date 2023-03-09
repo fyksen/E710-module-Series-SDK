@@ -1,0 +1,318 @@
+[
+    {
+        "merged": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\release\\menu_web.xml.flat",
+        "source": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\src\\main\\res\\menu\\web.xml"
+    },
+    {
+        "merged": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_color_button_selector.xml.flat",
+        "source": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\src\\main\\res\\drawable-hdpi\\color_button_selector.xml"
+    },
+    {
+        "merged": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_left.png.flat",
+        "source": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\src\\main\\res\\drawable-hdpi\\left.png"
+    },
+    {
+        "merged": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_btn_select_background_select_right_down.xml.flat",
+        "source": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\src\\main\\res\\drawable-hdpi\\btn_select_background_select_right_down.xml"
+    },
+    {
+        "merged": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_main.xml.flat",
+        "source": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\release\\menu_ivt_param.xml.flat",
+        "source": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\src\\main\\res\\menu\\ivt_param.xml"
+    },
+    {
+        "merged": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_button_background.xml.flat",
+        "source": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\src\\main\\res\\drawable-hdpi\\button_background.xml"
+    },
+    {
+        "merged": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\release\\menu_activity_mainsad.xml.flat",
+        "source": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\src\\main\\res\\menu\\activity_mainsad.xml"
+    },
+    {
+        "merged": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\release\\layout_query.xml.flat",
+        "source": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\src\\main\\res\\layout\\query.xml"
+    },
+    {
+        "merged": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\release\\menu_connect232.xml.flat",
+        "source": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\src\\main\\res\\menu\\connect232.xml"
+    },
+    {
+        "merged": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_btn_check_off.png.flat",
+        "source": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\src\\main\\res\\drawable-hdpi\\btn_check_off.png"
+    },
+    {
+        "merged": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_table_item_middle_selector.xml.flat",
+        "source": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\src\\main\\res\\drawable-hdpi\\table_item_middle_selector.xml"
+    },
+    {
+        "merged": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\release\\raw_tone0.wav.flat",
+        "source": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\src\\main\\res\\raw\\tone0.wav"
+    },
+    {
+        "merged": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_table_item_middle_select.xml.flat",
+        "source": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\src\\main\\res\\drawable-hdpi\\table_item_middle_select.xml"
+    },
+    {
+        "merged": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_btn_select_background_select_right.xml.flat",
+        "source": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\src\\main\\res\\drawable-hdpi\\btn_select_background_select_right.xml"
+    },
+    {
+        "merged": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\release\\menu_main.xml.flat",
+        "source": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_btn_check_on.png.flat",
+        "source": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\src\\main\\res\\drawable-hdpi\\btn_check_on.png"
+    },
+    {
+        "merged": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_menu_icon.png.flat",
+        "source": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\src\\main\\res\\drawable-hdpi\\menu_icon.png"
+    },
+    {
+        "merged": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\release\\raw_tone2.wav.flat",
+        "source": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\src\\main\\res\\raw\\tone2.wav"
+    },
+    {
+        "merged": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_radio_button_checked.png.flat",
+        "source": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\src\\main\\res\\drawable-hdpi\\radio_button_checked.png"
+    },
+    {
+        "merged": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_table_item_bottom_selector.xml.flat",
+        "source": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\src\\main\\res\\drawable-hdpi\\table_item_bottom_selector.xml"
+    },
+    {
+        "merged": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_up.png.flat",
+        "source": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\src\\main\\res\\drawable-hdpi\\up.png"
+    },
+    {
+        "merged": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\release\\layout_item.xml.flat",
+        "source": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\src\\main\\res\\layout\\item.xml"
+    },
+    {
+        "merged": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_table_item_middle.xml.flat",
+        "source": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\src\\main\\res\\drawable-hdpi\\table_item_middle.xml"
+    },
+    {
+        "merged": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_list_bg_selector.xml.flat",
+        "source": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\src\\main\\res\\drawable-hdpi\\list_bg_selector.xml"
+    },
+    {
+        "merged": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_button_selector.xml.flat",
+        "source": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\src\\main\\res\\drawable-hdpi\\button_selector.xml"
+    },
+    {
+        "merged": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\release\\raw_warning.wav.flat",
+        "source": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\src\\main\\res\\raw\\warning.wav"
+    },
+    {
+        "merged": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_udm.xml.flat",
+        "source": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\src\\main\\res\\layout\\activity_udm.xml"
+    },
+    {
+        "merged": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\release\\menu_udm.xml.flat",
+        "source": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\src\\main\\res\\menu\\udm.xml"
+    },
+    {
+        "merged": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_more_set_button_disenabled.png.flat",
+        "source": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\src\\main\\res\\drawable-hdpi\\more_set_button_disenabled.png"
+    },
+    {
+        "merged": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_more_set_button_click.png.flat",
+        "source": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\src\\main\\res\\drawable-hdpi\\more_set_button_click.png"
+    },
+    {
+        "merged": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_connect_tcp.xml.flat",
+        "source": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\src\\main\\res\\layout\\activity_connect_tcp.xml"
+    },
+    {
+        "merged": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_select.xml.flat",
+        "source": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\src\\main\\res\\layout\\activity_select.xml"
+    },
+    {
+        "merged": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_right.png.flat",
+        "source": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\src\\main\\res\\drawable-hdpi\\right.png"
+    },
+    {
+        "merged": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_connect232.xml.flat",
+        "source": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\src\\main\\res\\layout\\activity_connect232.xml"
+    },
+    {
+        "merged": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_back.png.flat",
+        "source": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\src\\main\\res\\drawable-hdpi\\back.png"
+    },
+    {
+        "merged": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_down.png.flat",
+        "source": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\src\\main\\res\\drawable-hdpi\\down.png"
+    },
+    {
+        "merged": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_radio_button_selector.xml.flat",
+        "source": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\src\\main\\res\\drawable-hdpi\\radio_button_selector.xml"
+    },
+    {
+        "merged": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_table_item_top_selector.xml.flat",
+        "source": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\src\\main\\res\\drawable-hdpi\\table_item_top_selector.xml"
+    },
+    {
+        "merged": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_ivt_param.xml.flat",
+        "source": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\src\\main\\res\\layout\\activity_ivt_param.xml"
+    },
+    {
+        "merged": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\release\\menu_connect_tcp.xml.flat",
+        "source": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\src\\main\\res\\menu\\connect_tcp.xml"
+    },
+    {
+        "merged": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_table_item_press_select.xml.flat",
+        "source": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\src\\main\\res\\drawable-hdpi\\table_item_press_select.xml"
+    },
+    {
+        "merged": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_bg_default_button_selector.xml.flat",
+        "source": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\src\\main\\res\\drawable-hdpi\\bg_default_button_selector.xml"
+    },
+    {
+        "merged": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\release\\raw_tone3.wav.flat",
+        "source": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\src\\main\\res\\raw\\tone3.wav"
+    },
+    {
+        "merged": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_color_button_background.xml.flat",
+        "source": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\src\\main\\res\\drawable-hdpi\\color_button_background.xml"
+    },
+    {
+        "merged": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_table_item_bottom_select.xml.flat",
+        "source": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\src\\main\\res\\drawable-hdpi\\table_item_bottom_select.xml"
+    },
+    {
+        "merged": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_btn_select_background_select.xml.flat",
+        "source": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\src\\main\\res\\drawable-hdpi\\btn_select_background_select.xml"
+    },
+    {
+        "merged": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_check_button_selector.xml.flat",
+        "source": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\src\\main\\res\\drawable-hdpi\\check_button_selector.xml"
+    },
+    {
+        "merged": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_button_press_background.xml.flat",
+        "source": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\src\\main\\res\\drawable-hdpi\\button_press_background.xml"
+    },
+    {
+        "merged": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_more_set_button_background_selector.xml.flat",
+        "source": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\src\\main\\res\\drawable-hdpi\\more_set_button_background_selector.xml"
+    },
+    {
+        "merged": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_radio_button_not_checked.png.flat",
+        "source": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\src\\main\\res\\drawable-hdpi\\radio_button_not_checked.png"
+    },
+    {
+        "merged": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_editbox_background.xml.flat",
+        "source": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\src\\main\\res\\drawable-hdpi\\editbox_background.xml"
+    },
+    {
+        "merged": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_btn_select_background.xml.flat",
+        "source": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\src\\main\\res\\drawable-hdpi\\btn_select_background.xml"
+    },
+    {
+        "merged": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_more_set_button.png.flat",
+        "source": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\src\\main\\res\\drawable-hdpi\\more_set_button.png"
+    },
+    {
+        "merged": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_button_disenabled_background.xml.flat",
+        "source": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\src\\main\\res\\drawable-hdpi\\button_disenabled_background.xml"
+    },
+    {
+        "merged": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_title_button_selector.xml.flat",
+        "source": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\src\\main\\res\\drawable-hdpi\\title_button_selector.xml"
+    },
+    {
+        "merged": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_table_item_bottom.xml.flat",
+        "source": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\src\\main\\res\\drawable-hdpi\\table_item_bottom.xml"
+    },
+    {
+        "merged": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_btn_select_background_select_left_down.xml.flat",
+        "source": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\src\\main\\res\\drawable-hdpi\\btn_select_background_select_left_down.xml"
+    },
+    {
+        "merged": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\release\\menu_select.xml.flat",
+        "source": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\src\\main\\res\\menu\\select.xml"
+    },
+    {
+        "merged": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\release\\raw_success.wav.flat",
+        "source": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\src\\main\\res\\raw\\success.wav"
+    },
+    {
+        "merged": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_icon_popupwin_menu_bg.9.png.flat",
+        "source": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\src\\main\\res\\drawable-hdpi\\icon_popupwin_menu_bg.9.png"
+    },
+    {
+        "merged": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_btn_select_background_select_left.xml.flat",
+        "source": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\src\\main\\res\\drawable-hdpi\\btn_select_background_select_left.xml"
+    },
+    {
+        "merged": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_table_item_top_select.xml.flat",
+        "source": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\src\\main\\res\\drawable-hdpi\\table_item_top_select.xml"
+    },
+    {
+        "merged": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\release\\layout_listitem.xml.flat",
+        "source": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\src\\main\\res\\layout\\listitem.xml"
+    },
+    {
+        "merged": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_a.png.flat",
+        "source": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\src\\main\\res\\drawable-hdpi\\a.png"
+    },
+    {
+        "merged": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_table_item_press.xml.flat",
+        "source": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\src\\main\\res\\drawable-hdpi\\table_item_press.xml"
+    },
+    {
+        "merged": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\release\\layout_rw_6c.xml.flat",
+        "source": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\src\\main\\res\\layout\\rw_6c.xml"
+    },
+    {
+        "merged": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_list_item_selector.xml.flat",
+        "source": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\src\\main\\res\\drawable-hdpi\\list_item_selector.xml"
+    },
+    {
+        "merged": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_gradient_bg.xml.flat",
+        "source": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\src\\main\\res\\drawable-hdpi\\gradient_bg.xml"
+    },
+    {
+        "merged": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_table_item_press_selector.xml.flat",
+        "source": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\src\\main\\res\\drawable-hdpi\\table_item_press_selector.xml"
+    },
+    {
+        "merged": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_readonly_editbox_background.xml.flat",
+        "source": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\src\\main\\res\\drawable-hdpi\\readonly_editbox_background.xml"
+    },
+    {
+        "merged": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\release\\raw_tone1.wav.flat",
+        "source": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\src\\main\\res\\raw\\tone1.wav"
+    },
+    {
+        "merged": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_table_item_top.xml.flat",
+        "source": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\src\\main\\res\\drawable-hdpi\\table_item_top.xml"
+    },
+    {
+        "merged": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\release\\layout_scan_view.xml.flat",
+        "source": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\src\\main\\res\\layout\\scan_view.xml"
+    },
+    {
+        "merged": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\build\\intermediates\\res\\merged\\release\\layout_list.xml.flat",
+        "source": "F:\\CLient group\\Client group-D\\R2000\\UHFR2000 V3.1(as-4,8,16)\\app\\src\\main\\res\\layout\\list.xml"
+    }
+]
